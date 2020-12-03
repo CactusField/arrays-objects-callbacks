@@ -15,7 +15,10 @@
 */
 
 //Code here
-
+let me ={
+  name:"andrew",
+  age:23
+};
 ////////// PROBLEM 2 //////////
 
 /*
@@ -24,7 +27,9 @@
 */
 
 //Code here
+let favoriteThings = {
 
+};
 /*
   After you've made your object, use bracket or dot notation to add another key named 'car' with the value being your favorite car
   and then another key named 'brand' with the value being your favorite brand.
