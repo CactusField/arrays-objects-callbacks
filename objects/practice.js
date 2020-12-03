@@ -28,7 +28,12 @@ let me ={
 
 //Code here
 let favoriteThings = {
-
+band: "pop smoke",
+food: "pizza",
+person: "My Dad",
+book: "Moonwalking With Einstein",
+movie: "the Bee Movie",
+holiday: "New Years"
 };
 /*
   After you've made your object, use bracket or dot notation to add another key named 'car' with the value being your favorite car
@@ -36,7 +41,8 @@ let favoriteThings = {
 */
 
 //Code here
-
+favoriteThings.car = "Ford GT"
+favoriteThings.brand = "H&M"
 /*
   Now use bracket or dot notation to change the value of the food key in your favoriteThings object to be 'Chicken Nuggets'
   and change the value of the book key in your favoriteThings object to be 'Harry Potter'.

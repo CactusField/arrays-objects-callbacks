@@ -55,14 +55,8 @@ var family = ['Tyler', 'Jordyn', 'Ryan', 'Chelsey', 'Ireland'];
 function looper(family){
   for  (let i=0; i<family.length; i++){
     alert (family[i])
-  }
-}
-
-
-
-
-
-
+  };
+};
 
 ////////// PROBLEM 4 //////////
 
@@ -95,14 +89,13 @@ var nums = [1,2,3,6,22,98,45,23,22,12];
 */
 
 //Code Here
+let arr = [];
 function evenFinder(nums){
-  let arr = [arr];
   for (let i=0; i < nums.length; i++){
     if (arr[i] % 2 === 0){
-      arr.push(nums[i])
+      arr.push(nums[i]);
     }
-  }
-  return arr;
+  }return arr;
 };
 
 
